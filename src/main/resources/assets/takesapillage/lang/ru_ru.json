@@ -41,7 +41,7 @@
 	"death.attack.legioner": "%1$s был повержен %2$s",
 	"death.attack.legioner.item": "%1$s был повержен %2$s, держащим в руках %3$s",
 
-	"takesapillage.configGui.title": "It Takes a Pillage - Config",
+	"takesapillage.configGui.title": "It Takes a Pillage - Конфигурация",
 	"takesapillage.configGui.replaceIronGolems.title": "Появление глиняных големов",
 	"takesapillage.configGui.peacefulGolemRate.title": "Замена глиняного голема на мирной сложности",
 	"takesapillage.configGui.easyGolemRate.title": "Замена глиняного голема на лёгкой сложности",
